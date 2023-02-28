@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+.generos{
+    margin-top: 11px;
+}
+
+nav{
+    box-shadow: 1px 1px 5px #0000005c;
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#mujer {
+    color:black;
+    border-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#hombre{
+    color:black;
+    border-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 15px;    
+
+}
+
+#mitienda{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+    margin-block: -10px;
+}
+
+.buscador{
+    box-shadow: 1px 1px 5px #000000;
+    border-style: none;
+}
